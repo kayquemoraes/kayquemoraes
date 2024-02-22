@@ -55,5 +55,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/kayquemoraes/kayquemoraes/blob/output/github-contribution-grid-snake.svg)
