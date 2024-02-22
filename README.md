@@ -2,7 +2,7 @@
 
 ###
 
-👩🏻‍🎓 Graduando Engenharia de Software na [FIAP](https://www.fiap.com.br/), em São Paulo. <br/>
+👩🏻‍🎓 Graduando Engenharia de Software na <a href="https://www.fiap.com.br" target="_blank" rel="noopener">FIAP</a>, em São Paulo. <br/>
 👩🏻‍💻 Participação na colaboração de projetos com a [IBM](https://www.ibm.com/br-pt), [Heinz](https://www.heinz.com/), e [HC](https://www.hc.fm.usp.br/hc/portal/), confira [aqui](). <br/>
 💭 Atualmente focado em desenvolviment back-end com Java, e ciências de dados com [Scikit learn](https://scikit-learn.org/stable/).
 
